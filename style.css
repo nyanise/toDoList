@@ -1,0 +1,60 @@
+body{
+    background: url(./hd-wood-background-30.jpg);
+}
+ul{
+    margin-top: 10%;
+}
+.li{
+    width:80%;
+    height: 40px;
+    border-radius: 2px;
+    background: white;
+    margin: 20px;
+    padding-top: 10px;
+    font-size: 20px;
+    display: flex;
+    
+   
+}
+
+.inter{
+    margin-top: 5%;
+    margin-left:5%;
+    width:80%;
+    height: 80px;
+    background: black;
+    opacity: 0.5;
+   
+
+}
+.input{
+    font-size: 20px;
+    background: black;
+    opacity: 0.5;
+    border: 0;
+    color: white;
+    height: 80px;
+    width:80%;
+}
+
+.i{
+    margin-left: auto;
+position: absolute;
+    font-size: 20px;
+  margin-left: 60%;
+
+}
+input.checkbox{
+    font-size: 20px;
+    color: lawngreen;
+}
+
+.h2{
+    background: black;
+    opacity: 0.5;
+    width: 80px;
+    height: 80px;
+    color: white;
+   padding-top:10px;
+ 
+}
